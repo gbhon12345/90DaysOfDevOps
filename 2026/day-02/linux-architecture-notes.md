@@ -16,3 +16,5 @@ File locations:
 ` systemctl status name.service ` service status
 ` systemctl is-active name.service ` check if the service is active
 ` systemctl is-enabled name.service ` -Check service enabled or not
+' systemctl stop name.service' --to stop the service
+'  systemctl restart name.service  ' --to restart the service
